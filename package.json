@@ -1,0 +1,19 @@
+{
+  "name": "virtualmarket",
+  "version": "1.0.0",
+  "description": "virtual market discord bot by Meflems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Meflems",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^16.0.0",
+    "fs": "^0.0.1-security",
+    "pm2": "^5.2.0",
+    "quick.db": "^7.1.3",
+    "quick.eco": "^2.0.4"
+  }
+}
