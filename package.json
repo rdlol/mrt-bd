@@ -8,6 +8,7 @@
   },
   "author": "Meflems",
   "license": "ISC",
+  "start": "pm2 start index.js",
   "dependencies": {
     "discord.js": "^12.5.3",
     "dotenv": "^16.0.0",
